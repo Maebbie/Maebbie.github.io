@@ -1,5 +1,5 @@
 Title: Maebbie
-logo: /images/ravewhit.jpg
+logo: https://raw.githubusercontent.com/Maebbie/Maebbie.github.io/refs/heads/main/images/ravewhit.jpg
 #description: empty
 show_downloads: false
 theme: jekyll-theme-slate
