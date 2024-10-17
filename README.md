@@ -1,4 +1,4 @@
-Found here are an assortment of Guides and Tools I have released.
+Found here are an assortment of Guides and Tools I have released. The Guides used to be scattered around as .pdf's on google drive first, before I put them on other sites. So I made this page in order to have them all in one central place, instead of just those .pdf's.
 
 ## Guides
 * [How to Atlas Everything in your World (literally, using Blender)](https://maebbie.github.io/UV-Atlas-Everything-Guide-Blender)
@@ -16,3 +16,5 @@ Found here are an assortment of Guides and Tools I have released.
 
 * [BlenderWASD Blender Config](https://github.com/Maebbie/BlenderWASD)
 <br>Blender Config designed for large scenes. Adds WASD movement and a custom layout with on point workspaces. 
+
+*[maebbie.github.io](https://maebbie.github.io)*
