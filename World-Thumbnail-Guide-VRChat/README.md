@@ -3,7 +3,7 @@
 To help create your own Thumbnail you may use the provided template to help align existing visuals.  
 The image below covers guide lines representing the 4 different crops used. It is ready to be used with an existing thumbnail or as a base for making a new one. Simply set it as a layer above your visuals and remove it before uploading your world thumbnail.
 
-![World Thumbnail Template.png](https://raw.githubusercontent.com/Maebbie/Maebbie.github.io/refs/heads/main/World-Thumbnail-Guide-VRChat/images/World%20Thumbnail%20Template.png)
+[![World Thumbnail Template.png](https://raw.githubusercontent.com/Maebbie/Maebbie.github.io/refs/heads/main/World-Thumbnail-Guide-VRChat/images/World%20Thumbnail%20Template.png)](https://raw.githubusercontent.com/Maebbie/Maebbie.github.io/refs/heads/main/World-Thumbnail-Guide-VRChat/images/World%20Thumbnail%20Template.png)
 
 ### <span style="color: rgb(160, 160, 160);">Grey box</span>
 
