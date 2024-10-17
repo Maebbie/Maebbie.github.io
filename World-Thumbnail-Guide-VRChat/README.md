@@ -22,14 +22,14 @@ The image below covers guide lines representing the 4 different crops used. It i
 
 **<span style="color: rgb(22, 145, 121);">The green box</span>** is what a user sees when hovering over a world and it zooms in a little bit. Important here is, that the PC/Quest platform indicator is nearly opaque when hovered over. It may be wise to ensure nothing is hidden or cut off on the top right.
 
-![Green Rec Preview.png](https://github.com/Maebbie/Maebbie.github.io/blob/main/World-Thumbnail-Guide-VRChat/images/Green%20Rec%20Preview.png)
+![Green Rec Preview.png](https://raw.githubusercontent.com/Maebbie/Maebbie.github.io/refs/heads/main/World-Thumbnail-Guide-VRChat/images/Green%20Rec%20Preview.png)
 
 ### <span style="color: rgb(42, 148, 255);"><span style="color: rgb(0, 127, 255);">Blue</span> and <span style="color: rgb(84, 169, 255);">Lightblue</span> circles</span>
 
 **<span style="color: rgb(42, 148, 255);">The <span style="color: rgb(0, 127, 255);">blue</span> and <span style="color: rgb(84, 169, 255);">lightblue</span> circles</span>** indicate what can be expected to be seen as a picture inside a dropped \[\[Portals|portal\]\]. The smaller of those 2 circles indicates what is always in view, when looking straight towards it. The bigger lightblue circle indicates where the actual cutoff happens, which is what is seen looking at the portal close up or at an angle.  
 Be aware the image is squished by about 33% horizontally before displayed in the portal.
 
-<img src="https://github.com/Maebbie/Maebbie.github.io/blob/main/World-Thumbnail-Guide-VRChat/images/Blue%20Circle%20Preview.jpg" width="256">
+<img src="https://raw.githubusercontent.com/Maebbie/Maebbie.github.io/refs/heads/main/World-Thumbnail-Guide-VRChat/images/Blue%20Circle%20Preview.jpg" width="256">
 
 Once you have everything lined up, you can delete this template layer. The template above already fits the right dimensions of 1200x900.
 
