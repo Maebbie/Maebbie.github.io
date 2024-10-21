@@ -23,7 +23,7 @@ Found here are an assortment of Guides and Tools I have released. The Guides use
 <br> Showcasing how a simple prompt can save you from watching 10 Minutes of bloat
 
 * [Measure your Far IPD by punching Holes into Paper](https://www.youtube.com/watch?v=F5CKUl9bU4M&list=PLHPl0SFKkUjMAMK71FGjMcuWVKdD2UlNp)
-<br> A new method I developed to measure your far IPD with 0.25mm accuracy using only a paper, ruler and 2 holes.
+<br> A new method I developed to measure your far IPD (distance between eye pupils) with 0.25mm accuracy using only a paper, ruler and 2 holes.
 
 *  [Macro guide to Ergonomics and general Health](https://www.youtube.com/watch?v=JTjh759eYis&list=PLHPl0SFKkUjMAMK71FGjMcuWVKdD2UlNp)
 <br> A healthy body enables a healthy mind. This video compiles a lot of (time-efficient) things I have researched to improve my own health over the years. It has Chapters!
