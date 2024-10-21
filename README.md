@@ -15,6 +15,21 @@ Found here are an assortment of Guides and Tools I have released. The Guides use
 <br>50+ Dependency-Free Udon Behaviours for VRChat Worlds. Only the VRChat SDK is needed to use these! 
 
 * [BlenderWASD Blender Config](https://github.com/Maebbie/BlenderWASD)
-<br>Blender Config designed for large scenes. Adds WASD movement and a custom layout with on point workspaces. 
+<br>Blender Config designed for large scenes. Adds WASD movement and a custom layout with on point workspaces.
+
+## Video Guides
+
+* [Summarize YouTube videos using a LM](https://www.youtube.com/watch?v=AgCSZ1ScQcE&list=PLHPl0SFKkUjMAMK71FGjMcuWVKdD2UlNp)
+<br> Showcasing how a simple prompt can save you from watching 10 Minutes of bloat
+
+* [Measure your Far IPD by punching Holes into Paper](https://www.youtube.com/watch?v=F5CKUl9bU4M&list=PLHPl0SFKkUjMAMK71FGjMcuWVKdD2UlNp)
+<br> A new method I developed to measure your far IPD with 0.25mm accuracy using only a paper, ruler and 2 holes.
+
+*  [Macro guide to Ergonomics and general Health](https://www.youtube.com/watch?v=JTjh759eYis&list=PLHPl0SFKkUjMAMK71FGjMcuWVKdD2UlNp)
+<br> A healthy body enables a healthy mind. This video compiles a lot of (time-efficient) things I have researched to improve my own health over the years. It has Chapters!
+
+* [Adding 3D objects to your VR180 or 3D 360° video using Blender](https://www.youtube.com/watch?v=pcYm1isKWfk&list=PLHPl0SFKkUjMAMK71FGjMcuWVKdD2UlNp)
+<br> Using Blender to determine where in your VR Video a 3D object needs to be placed, for it to feel right in 3D video. Useful for enhancing VR180 and 3D 360 video.
+
 
 *[maebbie.github.io](https://maebbie.github.io)*
