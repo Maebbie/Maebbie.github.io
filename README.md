@@ -15,11 +15,11 @@ Found here are an assortment of Guides and Tools I have released. The Guides use
 
 ## Tools
 * [Udon Graph Triggers](https://github.com/Maebbie/Udon-Graph-Triggers)
-  <img align="right" height="64" src="https://private-user-images.githubusercontent.com/3392422/354435099-6a05e8db-eacf-444a-9332-e670c2ac3c3f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk2MDY5ODUsIm5iZiI6MTcyOTYwNjY4NSwicGF0aCI6Ii8zMzkyNDIyLzM1NDQzNTA5OS02YTA1ZThkYi1lYWNmLTQ0NGEtOTMzMi1lNjcwYzJhYzNjM2YuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MTAyMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDEwMjJUMTQxODA1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZmEzZWYzODBkNzk4NjM5ZmZhYjFmYTZhMzcwMTYxY2I2OTg1ZWIzYjc0OTFjNGMwZWJmOGVkYmYwNTU1YWQyYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.BfWTqWWpu--pf25jLZgP3j7Qc42X_XmBRdHVN6DWgR4">
+  <img align="right" height="64" src="https://github.com/user-attachments/assets/81aa9140-38d4-44a3-8aa8-63fe32faef00">
 <br>50+ Dependency-Free Udon Behaviours for VRChat Worlds. Only the VRChat SDK is needed to use these! 
 
 * [BlenderWASD Blender Config](https://github.com/Maebbie/BlenderWASD)
-  <img align="right" height="64" src="https://private-user-images.githubusercontent.com/3392422/377643056-ab323208-942b-4afb-af3b-933ced171055.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk2MDY5ODcsIm5iZiI6MTcyOTYwNjY4NywicGF0aCI6Ii8zMzkyNDIyLzM3NzY0MzA1Ni1hYjMyMzIwOC05NDJiLTRhZmItYWYzYi05MzNjZWQxNzEwNTUuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MTAyMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDEwMjJUMTQxODA3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OGMyZjM2NjZiYzZmNzZkNjhhZWU2OWUzYjg1MWMyYTI2MTAzOTRhNzkzODczN2JjNDRhNjZhOThhNWRhZTE2OSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.rToVePowrfaXLz6wQ17tPy5RebF6DWN8kWz77fqJz1M">
+  <img align="right" height="64" src="https://github.com/user-attachments/assets/dfc536ba-ce9b-497e-a436-54dfcf41195e">
 <br>Blender Config designed for large scenes. Adds WASD movement and a custom layout with on point workspaces.
 
 ## Video Guides
