@@ -1,3 +1,4 @@
+### [<- Return to Home](https://maebbie.github.io)
 # How to swap out Baked Lightmaps for Day&Night mode
 
 [<img src="https://raw.githubusercontent.com/Maebbie/Maebbie.github.io/refs/heads/main/Swap-Baked-Lightmaps-VRChat/images/a05.jpg" width="256">](https://raw.githubusercontent.com/Maebbie/Maebbie.github.io/refs/heads/main/Swap-Baked-Lightmaps-VRChat/images/a05.jpg)
