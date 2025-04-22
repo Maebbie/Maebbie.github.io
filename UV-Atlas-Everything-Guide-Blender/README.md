@@ -221,4 +221,4 @@ You can also flex your atlas in your World at no performance cost.
 
 This article and its contents by Maebbie are licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
 
-### [<- Return to Home](https://maebbie.github.io)
+**[<- Return to Home](https://maebbie.github.io)**
