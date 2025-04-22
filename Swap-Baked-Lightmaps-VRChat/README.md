@@ -80,3 +80,5 @@ Instead, have everything enabled when loading in, setup a OnEnable udon event an
 Swapping out baked light has great performance benefits and will feel more natural than using real time light or a tinted camera overlay. Few Worlds use this technique, the one shown in this guide was Atoll of Ether, however the VRChat Home also swaps out baked light.
 
 This article and its contents by Maebbie are licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
+
+### [<- Return to Home](https://maebbie.github.io)
