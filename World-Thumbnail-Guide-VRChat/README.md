@@ -1,3 +1,4 @@
+### [<- Return to Home](https://maebbie.github.io)
 # World Thumbnail/World Image Guide including a Template
 
 To help create your own Thumbnail you may use the provided template to help align existing visuals.  
