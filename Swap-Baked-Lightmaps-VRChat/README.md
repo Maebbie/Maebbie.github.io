@@ -1,4 +1,4 @@
-### [<- Return to Home](https://maebbie.github.io)
+**[<- Return to Home](https://maebbie.github.io)**
 # How to swap out Baked Lightmaps for Day&Night mode
 
 [<img src="https://raw.githubusercontent.com/Maebbie/Maebbie.github.io/refs/heads/main/Swap-Baked-Lightmaps-VRChat/images/a05.jpg" width="256">](https://raw.githubusercontent.com/Maebbie/Maebbie.github.io/refs/heads/main/Swap-Baked-Lightmaps-VRChat/images/a05.jpg)
@@ -81,4 +81,4 @@ Swapping out baked light has great performance benefits and will feel more natur
 
 This article and its contents by Maebbie are licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
 
-### [<- Return to Home](https://maebbie.github.io)
+**[<- Return to Home](https://maebbie.github.io)**
