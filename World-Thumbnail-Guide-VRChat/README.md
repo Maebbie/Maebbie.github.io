@@ -35,3 +35,5 @@ Be aware the image is squished by about 33% horizontally before displayed in the
 Once you have everything lined up, you can delete this template layer. The template above already fits the right dimensions of 1200x900.
 
 This article and its contents by Maebbie are licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
+
+### [<- Return to Home](https://maebbie.github.io)
