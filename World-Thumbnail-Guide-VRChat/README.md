@@ -1,4 +1,4 @@
-### [<- Return to Home](https://maebbie.github.io)
+**[<- Return to Home](https://maebbie.github.io)**
 # World Thumbnail/World Image Guide including a Template
 
 To help create your own Thumbnail you may use the provided template to help align existing visuals.  
@@ -36,4 +36,4 @@ Once you have everything lined up, you can delete this template layer. The templ
 
 This article and its contents by Maebbie are licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
 
-### [<- Return to Home](https://maebbie.github.io)
+**[<- Return to Home](https://maebbie.github.io)**
