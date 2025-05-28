@@ -16,7 +16,7 @@ Found here are an assortment of Guides and Tools I have released. The Guides use
 ## Tools
 * [Udon Graph Triggers](https://github.com/Maebbie/Udon-Graph-Triggers)
   <img align="right" height="64" src="https://github.com/user-attachments/assets/81aa9140-38d4-44a3-8aa8-63fe32faef00">
-<br>50+ Dependency-Free Udon Behaviours for VRChat Worlds. Only the VRChat SDK is needed to use these! 
+<br>100+ Dependency-Free Udon Behaviours for VRChat Worlds. Only the VRChat SDK is needed to use these! There are regular and synched variants available.
 
 * [BlenderWASD Blender Config](https://github.com/Maebbie/BlenderWASD)
   <img align="right" height="64" src="https://github.com/user-attachments/assets/dfc536ba-ce9b-497e-a436-54dfcf41195e">
