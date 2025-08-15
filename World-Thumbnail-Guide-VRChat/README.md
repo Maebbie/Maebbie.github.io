@@ -21,7 +21,7 @@ The image below covers guide lines representing the 4 different crops used. It i
 
 ### <span style="color: rgb(22, 145, 121);">Green box</span>
 
-**<span style="color: rgb(22, 145, 121);">The green box</span>** is what a user sees when hovering over a world and it zooms in a little bit. Important here is, that the PC/Quest platform indicator is nearly opaque when hovered over. It may be wise to ensure nothing is hidden or cut off on the top right.
+**<span style="color: rgb(22, 145, 121);">The green box</span>** is what a user sees when hovering over a world and it zooms in a little bit. Important here is, that the platform indicator is more opaque when hovered over. It may be wise to ensure nothing is hidden or cut off on the top right.
 
 ![Green Rec Preview.png](https://raw.githubusercontent.com/Maebbie/Maebbie.github.io/refs/heads/main/World-Thumbnail-Guide-VRChat/images/Green%20Rec%20Preview.png)
 
