@@ -29,6 +29,7 @@ The image below covers guide lines representing the 4 different crops used. It i
 
 **<span style="color: rgb(42, 148, 255);">The <span style="color: rgb(0, 127, 255);">blue</span> and <span style="color: rgb(84, 169, 255);">lightblue</span> circles</span>** indicate what can be expected to be seen as a picture inside a dropped Portal. The smaller of those 2 circles indicates what is always in view, when looking straight towards it. The bigger lightblue circle indicates where the actual cutoff happens, which is what is seen looking at the portal close up or at an angle.  
 Be aware the image is squished by about 33% horizontally before displayed in the portal.
+This Crop is only for the default Portal skin and not the custom Skins that can be bought from the Store. However it is still is a useful guide universally, since these custom Portal skins tend to show more of the tHumbnail than the default one.
 
 <img src="https://raw.githubusercontent.com/Maebbie/Maebbie.github.io/refs/heads/main/World-Thumbnail-Guide-VRChat/images/Blue%20Circle%20Preview.jpg" width="256">
 
