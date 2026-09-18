@@ -1,25 +1,20 @@
-
-<div>
-<pre><code id="txt-content">[Dev Project Version](https://github.com/BasisVR/Basis/blob/long-term-support-20251102/Basis/ProjectSettings/ProjectVersion.txt)</code></pre>
+<p id="txt-status">[Dev Project Version](https://github.com/BasisVR/Basis/blob/long-term-support-20251102/Basis/ProjectSettings/ProjectVersion.txt)</p>
 
 <script>
-fetch("https://raw.githubusercontent.com/BasisVR/Basis/refs/heads/developer/Basis/ProjectSettings/ProjectVersion.txt")
-  .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
-  .then(text => document.getElementById("txt-content").textContent = text)
-  .catch(() => document.getElementById("txt-content").textContent = "[Dev Project Version](https://github.com/BasisVR/Basis/blob/long-term-support-20251102/Basis/ProjectSettings/ProjectVersion.txt)");
+(function () {
+  const status = document.getElementById("txt-status");
+
+  fetch("https://raw.githubusercontent.com/BasisVR/Basis/refs/heads/developer/Basis/ProjectSettings/ProjectVersion.txt")
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
+    .then(text => {
+      const pre = document.createElement("pre");
+      const code = document.createElement("code");
+      code.textContent = text;
+      pre.appendChild(code);
+      status.replaceWith(pre);
+    })
+    .catch(() => {
+      status.textContent = "[Dev Project Version](https://github.com/BasisVR/Basis/blob/long-term-support-20251102/Basis/ProjectSettings/ProjectVersion.txt)";
+    });
+})();
 </script>
-</div>
-
-
-
-
-<div>
-<pre><code id="txt-content">[Dev Project Version](https://github.com/BasisVR/Basis/blob/long-term-support-20251102/Basis/ProjectSettings/ProjectVersion.txt)</code></pre>
-
-<script>
-fetch("https://raw.githubusercontent.com/BasisVR/Basis/refs/heads/developer/Basis/ProjectSettings/Projectsion.txt")
-  .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
-  .then(text => document.getElementById("txt-content").textContent = text)
-  .catch(() => document.getElementById("txt-content").textContent = "[Dev Project Version](https://github.com/BasisVR/Basis/blob/long-term-support-20251102/Basis/ProjectSettings/ProjectVersion.txt)");
-</script>
-</div>
