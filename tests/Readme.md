@@ -6,9 +6,10 @@ sdfsdfsf
 (function () {
   const status = document.getElementById("txt-status");
 
-  fetch("https://raw.githubusercontent.com/BasisVR/Basis/refs/heads/developer/Basis/ProjectSettings/ProjectVersion.tt")
+  fetch("https://raw.githubusercontent.com/BasisVR/Basis/refs/heads/developer/Basis/ProjectSettings/ProjectVersion.txt")
     .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
     .then(text => {
+      const firstLine = text.split(/\r?\n/)[0];
       const pre = document.createElement("pre");
       const code = document.createElement("code");
       code.textContent = text;
