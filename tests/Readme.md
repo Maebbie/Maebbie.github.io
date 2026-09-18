@@ -1,6 +1,6 @@
 sdfsdfsdf
 sdfsdfsf
-<p id="txt-status">[Dev Project Version](https://github.com/BasisVR/Basis/blob/long-term-support-20251102/Basis/ProjectSettings/ProjectVersion.txt)</p>
+<p id="txt-status"><a href="https://github.com/BasisVR/Basis/blob/long-term-support-20251102/Basis/ProjectSettings/ProjectVersion.txt">Dev Project Version</a></p>
 
 <script>
 (function () {
@@ -16,7 +16,7 @@ sdfsdfsf
       status.replaceWith(pre);
     })
     .catch(() => {
-      status.textContent = "[Dev Project Version](https://github.com/BasisVR/Basis/blob/long-term-support-20251102/Basis/ProjectSettings/ProjectVersion.txt)";
+      status.querySelector("a").textContent = "Dev Project Version";
     });
 })();
 </script>
