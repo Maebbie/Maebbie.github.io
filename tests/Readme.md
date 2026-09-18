@@ -19,7 +19,7 @@
 })();
 </script>
 
-<p id="txt2"><a href="https://github.com/BasisVR/Basis/blob/long-term-support-20251102/Basis/ProjectSettings/ProjectVersion.txt">Dev Project Version</a></p>
+<p id="txt2"><a href="https://raw.githubusercontent.com/BasisVR/Basis/refs/heads/long-term-support-20251102/Basis/ProjectSettings/ProjectVersion.txt">LTS Project Version</a></p>
 
 <script>
 (function () {
@@ -35,7 +35,7 @@
       status.replaceWith(pre);
     })
     .catch(() => {
-      status.querySelector("a").textContent = "Dev Project Version";
+      status.querySelector("a").textContent = "LTS Project Version";
     });
 })();
 </script>
